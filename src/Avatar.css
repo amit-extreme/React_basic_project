@@ -1,0 +1,8 @@
+.avtar_style {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    padding: 4px;
+    background-color: purple;
+}
